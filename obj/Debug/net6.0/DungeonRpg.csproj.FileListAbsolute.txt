@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\DungeonRpg.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\DungeonRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\DungeonRpg.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\DungeonRpg.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\DungeonRpg.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\bin\Debug\net6.0\DungeonRpg.exe
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\bin\Debug\net6.0\DungeonRpg.deps.json
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\bin\Debug\net6.0\DungeonRpg.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\bin\Debug\net6.0\DungeonRpg.dll
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\bin\Debug\net6.0\DungeonRpg.pdb
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\DungeonRpg.dll
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\refint\DungeonRpg.dll
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\DungeonRpg.pdb
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\DungeonRpg.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\.net\DungeonRpg\obj\Debug\net6.0\ref\DungeonRpg.dll
