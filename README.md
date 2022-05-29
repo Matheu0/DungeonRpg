@@ -1,2 +1,2 @@
 # DungeonRpg
-### Codigo Back-End Basico sugerindo um RPG utilizando os principios da programação orientada a objeto.
+### Código Back-End básico idealizando um Mini-Rpg afim de utilizar os 4 princípios da programação orientada a objeto (POO).
