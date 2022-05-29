@@ -7,13 +7,11 @@ namespace DungeonRpg
     {
         static void Main(string[] args)
         {
-          Arus Hero = new Arus("Arus", 23, "Knight");
+          Hero Arus = new Hero("Arus", 23, "Knight");
+          Wizard Wizard = new Wizard("Jennica", 23, "White Wizard");
 
-          Cloud Hero2 = new Cloud("Cloud", 20, "Mage");
-          
-
-
-          Console.WriteLine("Hello, World!");
+          Console.WriteLine(Arus.Attack());
+          Console.WriteLine(Wizard.Attack());
         }
     }
 }
