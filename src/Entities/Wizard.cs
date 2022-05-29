@@ -13,6 +13,10 @@ namespace DungeonRpg.src.Entities
         {
             return this.Name + " Lançou Bola de fogo";
         } 
+                public string Attack(int Bonus)
+                {
+                    return this.Name + " Lançou magia com bonus de ataque " + Bonus;
+                }
     }
 
     }

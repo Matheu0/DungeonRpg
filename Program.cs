@@ -11,7 +11,7 @@ namespace DungeonRpg
           Wizard Wizard = new Wizard("Jennica", 23, "White Wizard");
 
           Console.WriteLine(Arus.Attack());
-          Console.WriteLine(Wizard.Attack());
+          Console.WriteLine(Wizard.Attack(1));
         }
     }
 }
